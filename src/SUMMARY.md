@@ -22,3 +22,7 @@ Study Material for Physics Lab
 <!-- ## Chapter Two
 
 - [Appendix](appendix-00.md) -->
+
+## Chapter Two
+
+- [Contributing](contrbuting.md)
