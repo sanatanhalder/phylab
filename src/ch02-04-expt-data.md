@@ -61,7 +61,7 @@ Some suggestions for plotting a proper graph
 
 
  ## Calculate $A$, $B$ and $\omega$
-  Since we have started *x-axis* from $0.025\times10^{-6}$ not from $0$, so we will not have intercept at $x = 0$ point. But we can calculate the intercept $A$ by putting the centroid value $(x_c = \frac{\sum_i^6 1/\lambda_i^2}{6}, y_c = \sum_i^6 n_i -1)$ and  and slope $(m)$ [from graph] in the straight line equation.
+  Since we have started *x-axis* from $0.025\times10^{-6}$ not from $0$, so we will not have intercept at $x = 0$ point. But we can calculate the intercept $A$ by putting the centroid value $(x_c = \frac{\sum_i^6 1/\lambda_i^2}{6}, y_c = \frac{\sum_i^6 n_i -1}{6})$ and  and slope $(m)$ [from graph] in the straight line equation.
 
 $$A = C =   y_c - mx_c$$
 
