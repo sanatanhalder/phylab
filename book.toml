@@ -1,0 +1,37 @@
+[book]
+title = "Study Material for Physics Lab"
+authors = ["Sanatan Halder"]
+language = "en"
+
+
+[output.html]
+mathjax-support = true
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
+git-repository-url = "https://github.com/sanatanhalder/phylab"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/sanatanhalder/phylab/edit/main/{path}"
+site-url = "/"
+
+
+[output.html.code.hidelines]
+python = "~"
+
+
+[preprocessor.katex]
+after = ["links"]
+# KaTeX options.
+output = "html"
+leqno = false
+fleqn = false
+throw-on-error = true
+error-color = "#cc0000"
+min-rule-thickness = -1.0
+max-size = "Infinity"
+max-expand = 1000
+trust = false
+# Extra options.
+no-css = false
+include-src = false
+block-delimiter = { left = "$$", right = "$$" }
+inline-delimiter = { left = "$", right = "$" }
