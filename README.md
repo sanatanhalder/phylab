@@ -1,7 +1,7 @@
 # Study Material for Physics Lab
 *by  [Sanatan Halder](https://sanatanhalder.com) (PhD, IIT Kanpur)*
 
-![Github Pages](https://github.com/sanatanhalder/phylab/actions/workflows/deploy.yml/badge.svg?branch=main)
+![Github Pages](https://github.com/sanatanhalder/phylab/actions/workflows/deploy.yml/badge.png?branch=main)
 
 Online version (`html`) of this study material is hosted on [https://sanatanhalder.github.io/phylab](https://sanatanhalder.github.io/phylab)
 

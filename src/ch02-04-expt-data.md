@@ -6,7 +6,7 @@ Angle of prism $(A_p) = 60^{o}$ `(given)`
 
 From below image of vernier scale you can see that length of `30 lines of vernier scale` matches with the lenght of `29 lines of main scale`
 
-![Vernier scale](img/img02-04-01.svg)  
+![Vernier scale](img/img02-04-01.png)  
 Figure 2.4-1: vernier scale
 
 $ 30 \enspace vernier \enspace  division \enspace (v.d) = 29 \enspace  scale \enspace  division (s.d)$
@@ -21,7 +21,7 @@ So, least count $(l.c) \enspace or \enspace (v.c) = 1^{'}$.
 ## How to take reading
 Vernier reading $0$ is your reference point. First determine at what point vernier $0$ cross the main scale reading. Then you will look for the verner reading and that is the reading where a particular line from vernier scale perfectly coincides with any of the main scale reading. Let's see an example below
 
-![taking reading](img/img02-04-02.svg)  
+![taking reading](img/img02-04-02.png)  
 Figure 2.4-2: Reading at some deviation point
 
 For this case $M.S.R = 232^{o}$ and $V.S.R = 20$. So, total reading $M.S.R + V.S.R \times l.c  = 232^{o} + 20 \times 1^{'} = 232^{o}20^{'}$

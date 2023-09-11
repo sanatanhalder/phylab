@@ -10,7 +10,7 @@ $$n - 1  =  A + \frac{AB}{\lambda^2}$$
 
 where $A$ is known as coefficient of refraction and $B$ is known as coefficient of dispersion.
 
-![Cauchy's dispersion graph](img/img02-01-01.svg)  
+![Cauchy's dispersion graph](img/img02-01-01.png)  
 Figure 2.1-1: Cauchy's Dispersion Graph
 
 ## Snell's formula
@@ -23,7 +23,7 @@ $$n = \frac{sin\left(\frac{A_p+D_{min}}{2}\right)}{sin\left(\frac{A_p}{2}\right)
 Where  $A_p$ is the angle of prism and $D_{min}$ is the angle of minimum deviation. 
 
 
-![Snell's formula](img/img02-01-02.svg)  
+![Snell's formula](img/img02-01-02.png)  
 Figure 2.1-2: Ray diagram
 
 ## Dispersive power

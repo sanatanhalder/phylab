@@ -10,8 +10,8 @@
    sodipodi:docname="img02-02-02.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    inkscape:export-filename="img02-02-02.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -63,7 +63,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.6656489"
-     inkscape:cx="-24.615031"
+     inkscape:cx="-80.449127"
      inkscape:cy="146.18927"
      inkscape:window-width="1864"
      inkscape:window-height="1051"
@@ -102,11 +102,11 @@
            transform="translate(-36,-6)"><tspan
              x="1006.5449"
              y="620.50032"
-             id="tspan273">base / rough
+             id="tspan274">base / rough
 </tspan><tspan
              x="1006.5449"
              y="638.8337"
-             id="tspan275">surface</tspan></text>
+             id="tspan276">surface</tspan></text>
         <path
            style="fill:none;stroke:#000000;stroke-width:1.262;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker1300)"
            d="M 914.724,623.04395 H 875.7321"
@@ -118,11 +118,11 @@
            transform="translate(-188,-6)"><tspan
              x="1006.5449"
              y="620.50032"
-             id="tspan277">refracting
+             id="tspan278">refracting
 </tspan><tspan
              x="1006.5449"
              y="638.8337"
-             id="tspan279">surface</tspan></text>
+             id="tspan280">surface</tspan></text>
       </g>
     </g>
   </g>
